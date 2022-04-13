@@ -1,3 +1,5 @@
+# Mammal
+
 # Създаване на клас:
 class Mammal:
     def __init__(self, name, the_type, sound):
